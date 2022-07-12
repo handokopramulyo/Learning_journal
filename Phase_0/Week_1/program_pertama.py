@@ -1,0 +1,1 @@
+print("Iyooiks, bismillah belajar di Hactiv8")
